@@ -17,4 +17,5 @@ Implement policy evaluation, one-step policy improvement, and value iteration fo
 ```bash
 pip install numpy
 jupyter notebook
-# Open `rl_cleaning_robot.ipynb` and run all cells 
+# Open rl_cleaning_robot.ipynb and run all cells 
+```
