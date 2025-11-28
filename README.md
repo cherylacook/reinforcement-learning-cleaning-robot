@@ -1,4 +1,4 @@
-# Cleaning Robot Reinforcement Learning
+# Cleaning Robot MDP Reinforcement Learning
 
 This project was *completed as part of AIML232* at Te Herenga Waka — Victoria University of Wellington.
 
